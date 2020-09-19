@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 📱 I'm currently working at ErosNow as Lead iOS Engineer.
+
 <!--
 **suhitp/suhitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
