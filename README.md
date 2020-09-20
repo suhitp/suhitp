@@ -11,12 +11,8 @@
 - Swift
 - Objective-C
 
-## Frameworks
+## Frameworks 
 - RxSwift
-
-## Architecturs
-- MVVM
-- VIPER
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/suhitt/) 
