@@ -18,6 +18,13 @@
 - MVVM
 - VIPER
 
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/suhitt/) 
+- [Twitter](https://twitter.com/suhit_patil)
+- [Medium](https://medium.com/@suhit)
+- [Stackoverflow](https://stackoverflow.com/users/1570808/suhit-patil)
+
+**⭐️ From [Suhit Patil](https://github.com/suhitp)**
 
 <!--
 **suhitp/suhitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
