@@ -1,7 +1,7 @@
 # Hello everyone 👋 I am Suhit.
 
-- 📱 I'm currently working at ErosNow as a Lead iOS Engineer.
-- 🚀 Currently using Swift and Objective-C in Production and learning SwiftUI and Combine.
+- 📱 iOS Developer at PhonePe.
+- 🚀 using Swift in Production and learning SwiftUI and Combine.
 - 💻 Passionate about coding and technology in general.
 - 🎯 Always up for building large scale applications with great user experience.
 - 🙌🏻 Open source supporter and contributer.
