@@ -1,7 +1,8 @@
 # Hello everyone 👋 I am Suhit.
 
-- 📱 iOS Developer at PhonePe.
-- 🚀 using Swift in Production and learning SwiftUI and Combine.
+- 📱 iOS Developer with 13+ Years exerience building higly scalable and performant iOS and tvOS applications for large userbase.
+- 🚀 9+ of Experience of using Swift in Production. 
+- 🚀 2+ Years of experience of using SwiftUI and Combine.
 - 💻 Passionate about coding and technology in general.
 - 🎯 Always up for building large scale applications with great user experience.
 - 🙌🏻 Open source supporter and contributer.
@@ -10,9 +11,15 @@
 ## Languages
 - Swift
 - Objective-C
+- Kotlin (Intermediate)
 
 ## Frameworks 
+- UIKit
+- SwiftUI
+- CoreData
 - RxSwift
+- Alamofire
+- Firebase
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/suhitt/) 
